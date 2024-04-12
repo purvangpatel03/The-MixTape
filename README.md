@@ -1,16 +1,18 @@
-# music_streaming_app
+# The MixTape
 
-A new Flutter project.
+The Mixtape' - a fun Flutter app that brings music from all over the world right to your fingertips! With The Mixtape, you can easily discover tons of songs by different artists, all thanks to handy JSON APIs.
 
-## Getting Started
+But what makes it super cool? Well, it's got this awesome mini-player that keeps your tunes playing smoothly while you browse around the app. 
 
-This project is a starting point for a Flutter application.
+Simple, sleek, and totally user-friendly, The Mixtape shows off my passion for creating cool stuff that makes listening to music online a blast!
 
-A few resources to get you started if this is your first Flutter project:
+### The MixTape Looks like:-
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="url"><img src="https://github.com/purvangpatel03/The-MixTape/blob/main/assets/mixtape_home_page.png" align="left" width="160" ></a>
+
+<a href="url"><img src="https://github.com/purvangpatel03/The-MixTape/blob/main/assets/mixtape_miniplayer.png" align="left" width="160" ></a>
+
+<a href="url"><img src="https://github.com/purvangpatel03/The-MixTape/blob/main/assets/mixtape_music_page.png" align="left" width="160" ></a>
+
+<a href="url"><img src="https://github.com/purvangpatel03/The-MixTape/blob/main/assets/mixtape_track_page.png" align="left" width="160" ></a>
